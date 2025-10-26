@@ -25,3 +25,4 @@
 
 
 ### 🤖 Uso de Herramientas de IA
+Se dio uso a la IA para aprender el uso correcto del formato de esta pagina, para poder redactar mi contenido de manera ordenada.
