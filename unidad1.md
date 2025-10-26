@@ -55,18 +55,62 @@ Uso de cálculos o fórmulas matemáticas.
 Instrucciones escritas bajo cierta estructura para poder adentrarse al entendimiento de la programacion, es un intermedio del lenguaje natural y el lenguaje de programacion, para esto se uso la herramienta Pseint.
 Pseint es una herramienta donde aplicamos fácilmente pseudolenguaje de programación en su versión en español, este está acompañado además de un editor y visor de diagramas de flujo que nos permite centrarnos en el aprendizaje de los conceptos de algoritmos computacionales.
 Este programa nos ayuda a que la introducción a un lenguaje de programación sea mucho más llevadera y sencilla, brindándonos varios conceptos de algoritmos computacionales para luego poder adentrarnos a un lenguaje de programación real. 
+
+Ingrese a este enlace si desea descargar Pseint en su ordenador --> [Pseint](https://pseint.sourceforge.net/)
+
 #### Diagramas de flujo
 Utiliza simbolos y graficas para representar las distintas instrucciones que debe seguir el algoritmo, se hace automaticamente en Pseint al hacer nuestro pseudocodigo
 
 ### Programacion por bloques
 La programación por bloques es un enfoque de codificación visual donde los usuarios crean programas arrastrando y uniendo bloques gráficos predefinidos que representan comandos y estructuras de lógica. Elimina la necesidad de escribir código complejo basado en texto y sintaxis, reemplazándolo por un sistema de "rompecabezas" donde solo las piezas lógicamente compatibles pueden encajarse, haciendo asi mas simple el aprendizaje de programacion.
 
-![progbloques](<img width="864" height="615" alt="image" src="https://github.com/user-attachments/assets/317b72e4-e836-4525-85b7-4163ddfa4957" />
-)
+![progbloques](https://github.com/user-attachments/assets/3285c91e-f7ed-43e2-b1a5-f7f0110e665d)
+
+Ingrese en este enlace para experimentar como es la programacion por bloques --> [PilasBloques](https://pilasbloques.program.ar/online/)
+
 ### Ejemplos de algoritmos con estructuras lineales
+**Enunciado del Problema**
+**Título:** Cálculo de Edad Actual y Edad Futura (Año 2050)
+
+**Descripción:** Escriba un algoritmo que solicite al usuario dos datos enteros:
+
+- El año actual en el que se encuentra.
+
+- Su año de nacimiento.
+
+El programa deberá mostrar:
+
+- La edad actual de la persona.
+
+- La edad que la persona tendrá en el año 2050.
+
+**Solucion en Pseint**
+
+**Algoritmo**
+
+![algoritmo](https://github.com/user-attachments/assets/dfdd9347-d2fd-4fba-9ad0-f5597bb93dc4)
+
+**Ejecucion**
+
+![prueba](https://github.com/user-attachments/assets/3eb15835-8928-42d7-bba0-26f9e04402f1)
+
+**Diagrama de flujo**
+
+![diagrama](https://github.com/user-attachments/assets/2000c269-8c40-44ac-ba37-b71d4ca8fbe8)
+
+**Resolucion en lenguaje C, usando Visual Studio Code**
+
+![codigo](https://github.com/user-attachments/assets/39339cfd-7514-4569-a527-f0051cb74f15)
+![terminal](https://github.com/user-attachments/assets/3d7fc332-538a-4954-b26f-85220493ecc8)
+
+- Si desea ver los ejercicios resueltos en el programa ingrese a este enlace --> [ejercicio de años](https://drive.google.com/drive/folders/1U6hXxmJI3jbLH-En-mNHTkmuQkX8duka?usp=sharing)
 
 ### Principales dificultades en la aplicacion de los contenidos
+La principal dificultad aparecio al pasar de pseudocodigo a un lenguaje de programacion real como es C, la estructura era menos parecida al lenguaje natural, teniendo que recordar palabras clave en ingles, recordar siempre usar el ";", como se usan correctamente las mascaras, y otros signos fue un poco dificil al principio, pero resolviendo varios ejercicios uno se va acostumbrando a que errores evitar y como crear el codigo correctamente.
 
 ### Reflexion
+Esta unidad ha sido crucial para entender que la programación es, ante todo, lógica. Aprendí que un algoritmo es la base de todo código y debe ser preciso, consistente y finito. El uso de PseInt y el pseudocódigo fue fundamental, ya que sirvió como un puente de lenguaje natural que me permitió concentrarme en la lógica de Entrada, Proceso y Salida sin preocuparme inicialmente por la sintaxis estricta. La principal dificultad apareció al pasar a C, donde tuve que adaptar mi pensamiento a su estructura rígida y sintaxis. Superar errores iniciales como el uso incorrecto del punto y coma (;), las mascaras (%d), y las reglas de tipos de datos, me enseñó que la única forma de dominar un lenguaje de programación es a través de la práctica constante. Ahora reconozco y sé cómo evitar estos errores comunes, lo cual me prepara mejor para las unidades futuras.
 
 ### Evidencia de las tareas entregadas en la unidad 1
+
+Enlace en google drive de las tareas de la unidad 1 --> [Tareas unidad 1](https://drive.google.com/drive/folders/1-_LpqLXI3DvtouSTW_lGGA3PeHprJ-w0?usp=sharing) 
