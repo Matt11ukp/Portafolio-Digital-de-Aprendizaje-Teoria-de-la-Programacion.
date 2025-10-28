@@ -56,7 +56,7 @@ Instrucciones escritas bajo cierta estructura para poder adentrarse al entendimi
 Pseint es una herramienta donde aplicamos fácilmente pseudolenguaje de programación en su versión en español, este está acompañado además de un editor y visor de diagramas de flujo que nos permite centrarnos en el aprendizaje de los conceptos de algoritmos computacionales.
 Este programa nos ayuda a que la introducción a un lenguaje de programación sea mucho más llevadera y sencilla, brindándonos varios conceptos de algoritmos computacionales para luego poder adentrarnos a un lenguaje de programación real. 
 
-Ingrese a este enlace si desea descargar Pseint en su ordenador --> [Pseint](https://pseint.sourceforge.net/)
+- Ingrese a este enlace si desea descargar Pseint en su ordenador --> [Pseint](https://pseint.sourceforge.net/)
 
 #### Diagramas de flujo
 Utiliza simbolos y graficas para representar las distintas instrucciones que debe seguir el algoritmo, se hace automaticamente en Pseint al hacer nuestro pseudocodigo
@@ -66,7 +66,7 @@ La programación por bloques es un enfoque de codificación visual donde los usu
 
 ![progbloques](https://github.com/user-attachments/assets/3285c91e-f7ed-43e2-b1a5-f7f0110e665d)
 
-Ingrese en este enlace para experimentar como es la programacion por bloques --> [PilasBloques](https://pilasbloques.program.ar/online/)
+- Ingrese en este enlace para experimentar como es la programacion por bloques --> [PilasBloques](https://pilasbloques.program.ar/online/)
 
 ### Ejemplos de algoritmos con estructuras lineales 👇
 **Enunciado del Problema**
@@ -114,3 +114,5 @@ Esta unidad ha sido crucial para entender que la programación es, ante todo, l�
 ### Evidencia de las tareas entregadas en la unidad 1 📂
 
 Enlace en google drive de las tareas de la unidad 1 --> [Tareas unidad 1](https://drive.google.com/drive/folders/1-_LpqLXI3DvtouSTW_lGGA3PeHprJ-w0?usp=sharing) 
+
+- **Ingrese aqui para volver a la pagina principal -->** [pagina principal](Index.md)
