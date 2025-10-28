@@ -10,13 +10,13 @@
 - Haga click en este enlace para acceder a los contenidos de la unidad 1 --> [Unidad 1](unidad1.md) 
 
 ### ⚙️ Unidad 2: Paradigmas de Programación
----
+*Proximamente...*
 
 ### 🧪 Unidad 3: Análisis y Verificación de Programas
----
+*Proximamente...*
 
 ### ✅ Conclusiones
----
+*Proximamente...*
 
 ### 📄 Referencias
 - Arteaga Martínez M. M. (2023). Lógica de programación con Pseint. Enfoque práctico (Primera edición). Fondo Editorial Remington. Disponible en: https://research.ebsco.com/linkprocessor/plink?id=0c1115b8-e552-38e4-bc75-bf84bbdd293f 
