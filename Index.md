@@ -19,9 +19,9 @@
 *Proximamente...*
 
 ### 📄 Referencias
-- Arteaga Martínez M. M. (2023). Lógica de programación con Pseint. Enfoque práctico (Primera edición). Fondo Editorial Remington. Disponible en: https://research.ebsco.com/linkprocessor/plink?id=0c1115b8-e552-38e4-bc75-bf84bbdd293f 
+- [1] Arteaga Martínez M. M. (2023). Lógica de programación con Pseint. Enfoque práctico (Primera edición). Fondo Editorial Remington. Disponible en: https://research.ebsco.com/linkprocessor/plink?id=0c1115b8-e552-38e4-bc75-bf84bbdd293f 
 
-- Figueroa Piscoya, E.N.,  Maldonado Ramirez, I., y Santa Cruz Acosta, R.C. (2021). Fundamentos de programación, Un enfoque práctico. Biblioteca Nacional del Perú. Disponible en: https://www.academia.edu/103779068/FUNDAMENTOS_DE_PROGRAMACI%C3%93N_Un_enfoque_pr%C3%A1ctico  
+- [2] Figueroa Piscoya, E.N.,  Maldonado Ramirez, I., y Santa Cruz Acosta, R.C. (2021). Fundamentos de programación, Un enfoque práctico. Biblioteca Nacional del Perú. Disponible en: https://www.academia.edu/103779068/FUNDAMENTOS_DE_PROGRAMACI%C3%93N_Un_enfoque_pr%C3%A1ctico  
 
 
 ### 🤖 Uso de Herramientas de IA
