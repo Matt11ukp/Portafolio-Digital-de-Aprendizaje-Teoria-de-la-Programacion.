@@ -66,6 +66,16 @@ La programación por bloques es un enfoque de codificación visual donde los usu
 
 ![progbloques](https://github.com/user-attachments/assets/3285c91e-f7ed-43e2-b1a5-f7f0110e665d)
 
+**Ejemplo de pagina para programar por bloques:**
+
+Desafio donde se tiene que indicar las acciones del gato para que se pueda comer un churrasco
+
+![imagenbloques](https://github.com/user-attachments/assets/fe922f10-6b4e-4ef7-b10d-a9f1d46300ae)
+
+![gatoresuelto](https://github.com/user-attachments/assets/481cdf61-9fd2-490c-b0b1-1c4224166a3d)
+
+El gato con las instrucciones logra realizar la accion solicitada
+
 - Ingrese en este enlace para experimentar como es la programacion por bloques --> [PilasBloques](https://pilasbloques.program.ar/online/)
 
 ### Ejemplos de algoritmos con estructuras lineales 👇
