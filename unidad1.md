@@ -78,8 +78,13 @@ El gato con las instrucciones logra realizar la accion solicitada
 
 - Ingrese en este enlace para experimentar como es la programacion por bloques --> [PilasBloques](https://pilasbloques.program.ar/online/)
 
+### Pruebas de escritorio
+
+Es una prueba manual que realiza el programador al acabar su codigo, asegurandose de usar correctamente las variables y operaciones para comparar los resultados con los de la maquina y asegurarse que funcione correctamente.
+
 ### Ejemplos de algoritmos con estructuras lineales 👇
 **Enunciado del Problema**
+
 **Título:** Cálculo de Edad Actual y Edad Futura (Año 2050)
 
 **Descripción:** Escriba un algoritmo que solicite al usuario dos datos enteros:
@@ -110,8 +115,29 @@ El programa deberá mostrar:
 
 **Resolucion en lenguaje C, usando Visual Studio Code 🖥️**
 
+Codigo en C
+
 ![codigo](https://github.com/user-attachments/assets/39339cfd-7514-4569-a527-f0051cb74f15)
-![terminal](https://github.com/user-attachments/assets/3d7fc332-538a-4954-b26f-85220493ecc8)
+
+Terminal mostrando que si funciona el codigo
+
+![terminal](https://github.com/user-attachments/assets/61cf2e66-9846-4a6a-8a51-73d88588aac1)
+
+**Copilacion y ejecucion en lenguaje C.**
+
+Para ejecutar en C, primero copilamos con el comando gcc xxxx.c -o xxxxx, donde xxxx es el nombre de nuestro archivo, una vez copilado lo ejecutamamos con .\xxxx.exe siendo xxxx el nombre con el que copilamos nuestro codigo, con esto ya nos dejara ingresar los datos de entrada y nos mostrar los datos de salida.
+
+Adicionalmente uso el comando cd para dirigirme a la carpeta en donde guardo mis copilaciones y archivos .exe de mis practicas.
+
+
+
+
+**Prueba de escritorio**
+
+Se usaron distintos valores para verificar que el codigo sea consistente con cualquier valor que se le de
+
+![pruebadeescritorio](https://github.com/user-attachments/assets/deb4d53a-cf78-4e17-9ad3-a0c2ec56ba99)
+
 
 - Si desea ver los ejercicios resueltos en el programa ingrese a este enlace --> [ejercicio de años](https://drive.google.com/drive/folders/1U6hXxmJI3jbLH-En-mNHTkmuQkX8duka?usp=sharing)
 
