@@ -5,7 +5,7 @@
 ### Algoritmos, pseudocodigo, y diagramas de flujo
 #### Algoritmo
 Es una secuencia de pasos lógicamente ordenados y finitos que dan solución a un problema determinado. Estos deben ser precisos, consistentes y finitos 
-Pueden ser de dos tipos: [1]
+Pueden ser de dos tipos: 
 
 **1. Cualitativos 🗣️**
 
@@ -41,7 +41,7 @@ Uso de cálculos o fórmulas matemáticas.
 4. El resultado es 8.
 5. Fin.
 
-- Se puede resolver de varias maneras un mismo algoritmo, dependiendo del ingenio de cada persona. 💡 [1]
+- Se puede resolver de varias maneras un mismo algoritmo, dependiendo del ingenio de cada persona [1].
 
 **Componentes de un algoritmo**
 
@@ -54,7 +54,7 @@ Uso de cálculos o fórmulas matemáticas.
 #### Pseudocodigo
 Instrucciones escritas bajo cierta estructura para poder adentrarse al entendimiento de la programacion, es un intermedio del lenguaje natural y el lenguaje de programacion, para esto se uso la herramienta Pseint.
 Pseint es una herramienta donde aplicamos fácilmente pseudolenguaje de programación en su versión en español, este está acompañado además de un editor y visor de diagramas de flujo que nos permite centrarnos en el aprendizaje de los conceptos de algoritmos computacionales.
-Este programa nos ayuda a que la introducción a un lenguaje de programación sea mucho más llevadera y sencilla, brindándonos varios conceptos de algoritmos computacionales para luego poder adentrarnos a un lenguaje de programación real. [2]
+Este programa nos ayuda a que la introducción a un lenguaje de programación sea mucho más llevadera y sencilla, brindándonos varios conceptos de algoritmos computacionales para luego poder adentrarnos a un lenguaje de programación real [2].
 
 - Ingrese a este enlace si desea descargar Pseint en su ordenador --> [Pseint](https://pseint.sourceforge.net/)
 
