@@ -82,6 +82,10 @@ El gato con las instrucciones logra realizar la accion solicitada
 
 Es una prueba manual que realiza el programador al acabar su codigo, asegurandose de usar correctamente las variables y operaciones para comparar los resultados con los de la maquina y asegurarse que funcione correctamente.
 
+### Lenguaje C
+
+C es un lenguaje de programación de propósito general, imperativo y estructurado, creado por Dennis Ritchie entre 1969 y 1972 en los Laboratorios Bell. Fue desarrollado originalmente para reescribir e implementar el sistema operativo Unix. Es el primer lenguaje que aprendemos en la materia, con el que pasamos de pseudocodigo a codigo real.
+
 ### Ejemplos de algoritmos con estructuras lineales 👇
 **Enunciado del Problema**
 
