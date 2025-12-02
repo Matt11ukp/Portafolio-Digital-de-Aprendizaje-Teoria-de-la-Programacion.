@@ -10,7 +10,7 @@
 - Haga click en este enlace para acceder a los contenidos de la unidad 1 --> [Unidad 1](unidad1.md) 
 
 ### ⚙️ Unidad 2: Paradigmas de Programación
-- Haga click en este enlace para acceder a los contenidos de la unidad 1 --> [Unidad 2](unidad2.md) 
+- Haga click en este enlace para acceder a los contenidos de la unidad 2 --> [Unidad 2](unidad2.md) 
 
 ### 🧪 Unidad 3: Análisis y Verificación de Programas
 *Proximamente...*
