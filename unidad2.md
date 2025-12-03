@@ -115,6 +115,17 @@ Al terminar esta unidad, me di cuenta de que programar no se trata solamente de 
 
 ### Tareas entregadas
 
+#### ACD
 
+- El ACD de esta unidad fue un control de aprendizaje realizado en el EVA.
+
+#### APE
+
+- Enlace en Google Drive con los Ape de la unidad 2 ----> [APE](https://drive.google.com/drive/folders/1pcJizpqSC3AfU0EuePccWKpeScC1vTbE?usp=sharing)
+
+#### AA
+
+- Enlace en Google Drive con los AA de la unidad 2 ----> [AA](https://drive.google.com/drive/folders/1_lKo_arvILV2ngJJwEac6jgtT3F3BKC-?usp=sharing)
+-------------------
 
 - **Ingrese aqui para volver a la pagina principal -->** [pagina principal](Index.md)
