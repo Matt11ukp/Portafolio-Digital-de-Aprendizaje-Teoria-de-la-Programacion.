@@ -102,7 +102,24 @@ Programa que muestra la tabla de multiplicar del 2.
 
 **Diagrama de flujo:**
 
-### Ejercicio combinando estructuras condicionales y repetitivas
+### Ejercicio combinando estructuras condicionales y repetitivas (Python)
+
+#### Descripcion del problema
+
+Una empresa requiere un programa para automatizar el control de calidad de un lote de baterías recargables destinadas a un sistema de carga solar. El programa debe permitir al usuario ingresar los voltajes medidos, 
+validar que sean físicamente posibles, clasificarlas según su estado de carga y generar un reporte estadístico final.
+
+**Especificaciones de Entrada**
+
+Un número entero que representa la cantidad total de baterías a evaluar, debe ser mayor a 0. Si el usuario ingresa un valor menor o igual a 0, el programa debe pedir el dato nuevamente. Posteriormente, se leerá el Voltaje (V) de cada batería, este voltaje debe estar en el rango de entre 0 y 15. Si el usuario ingresa un valor fuera de este rango, el programa debe solicitar el dato nuevamente hasta que se ingrese un valor válido. Para cada voltaje válido ingresado, se debe determinar el estado de la batería según lo siguiente: 
+
+- Voltaje menor a 5 = Defectuoso
+
+- Voltaje mayor o igual a 5 y menor o igual a 9 = Recuperable
+
+- Voltaje mayor a nueve = Optimo
+
+Al finalizar la lectura de los voltajes de las baterías, el programa debe mostrar la cantidad total de baterías defectuosas, recuperables y optimas, y ademas mostrar el Promedio de voltaje Útil: Este promedio se calcula considerando únicamente las baterías con estado "Recuperable" y "Óptima". 
 
 ### Principales dificultades en la aplicacion de los contenidos
 
