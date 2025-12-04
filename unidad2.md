@@ -6,7 +6,7 @@
 
 #### 1. Simples (If)
 
-Si pasa esto, haz esto. Evalúa una condición. Si es verdadera, ejecuta la acción. Si es falsa, no hace nada y el programa sigue su curso.
+Si pasa esto, haz esto. Evalúa una condición. Si es verdadera, ejecuta la acción. Si es falsa, no hace nada y el programa sigue su curso. [1]
 
 **Ejemplo de caso if:**
 
@@ -26,7 +26,7 @@ Programa que indica si tu nota es aprobatoria, siempre que sea mayor o igual a 1
 
 #### 2. Dobles (If - Else)
 
-Si pasa esto, haz A. Si no, haz B. Si la condición se cumple, toma el primer camino, si no, toma el segundo. 
+Si pasa esto, haz A. Si no, haz B. Si la condición se cumple, toma el primer camino, si no, toma el segundo. [1]
 
 **Ejemplo de caso if - else**
 
@@ -46,7 +46,7 @@ Programa que identifica que tipo de triangulo es, segun las medidas que se le in
 
 #### 3. Múltiples (Switch)
 
-En caso de ser la opción 1, haz esto; en caso de ser la 2, haz esto otro. Elige un camino específico entre muchas opciones predefinidas.
+En caso de ser la opción 1, haz esto; en caso de ser la 2, haz esto otro. Elige un camino específico entre muchas opciones predefinidas. [1]
 
 **Ejemplo de caso switch**
 
@@ -68,7 +68,7 @@ Programa que realiza la operacion entre dos numeros dependiendo que operador se 
 
 #### 1. Mientras (While)
 
-Mientras la condición sea verdadera, se sigue repitiendo. Evalúa la condición al principio. Si la condición es falsa desde el inicio, el ciclo nunca se ejecuta. Se usa cuando no sabes cuántas veces tendrás que repetir.
+Mientras la condición sea verdadera, se sigue repitiendo. Evalúa la condición al principio. Si la condición es falsa desde el inicio, el ciclo nunca se ejecuta. Se usa cuando no sabes cuántas veces tendrás que repetir. [1]
 
 **Ejemplo de caso while** 
 
@@ -88,7 +88,7 @@ Programa que muestra la suma consecutiva de todos los numeros del 0 al 5.
 
 #### 2. Hacer... Mientras (Do While)
 
-Lógica: Hacerlo una vez, y luego revisar si se debe repetir. Evalúa la condición al final. Esto garantiza que el bloque de instrucciones se ejecute obligatoriamente al menos una vez.
+Lógica: Hacerlo una vez, y luego revisar si se debe repetir. Evalúa la condición al final. Esto garantiza que el bloque de instrucciones se ejecute obligatoriamente al menos una vez. [1]
 
 **Ejemplo de caso do while**
 
@@ -108,7 +108,7 @@ Programa que usa el do while para contar cuantos numeros positivos ingresa el us
 
 #### 3. Para (For)
 
-Repitir algo una cantidad exacta de veces. Es un bucle controlado por un contador automático. Es ideal cuando sabes de antemano cuántas vueltas dará el ciclo (como recorrer una lista de 10 alumnos).
+Repitir algo una cantidad exacta de veces. Es un bucle controlado por un contador automático. Es ideal cuando sabes de antemano cuántas vueltas dará el ciclo (como recorrer una lista de 10 alumnos). [1]
 
 **Ejemplo de caso for**
 
