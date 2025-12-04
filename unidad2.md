@@ -20,6 +20,10 @@ Programa que indica si tu nota es aprobatoria, siempre que sea mayor o igual a 1
 
 **Diagrama de flujo:**
 
+<div align="center">
+  <img width="390" height="205" alt="Captura de pantalla 2025-12-03 165404" src="https://github.com/user-attachments/assets/8cf84411-cbe2-4163-8b9f-3bc8c8e098d9" />
+</div>
+
 #### 2. Dobles (If - Else)
 
 Si pasa esto, haz A. Si no, haz B. Si la condición se cumple, toma el primer camino, si no, toma el segundo. 
@@ -36,6 +40,10 @@ Programa que identifica que tipo de triangulo es, segun las medidas que se le in
 
 **Diagrama de flujo:**
 
+<div align="center">
+<img width="1000" height="340" alt="Captura de pantalla 2025-12-03 165732" src="https://github.com/user-attachments/assets/c503c49c-e69d-4719-af50-f10e9d1a0ed7" />
+</div>
+
 #### 3. Múltiples (Switch)
 
 En caso de ser la opción 1, haz esto; en caso de ser la 2, haz esto otro. Elige un camino específico entre muchas opciones predefinidas.
@@ -51,6 +59,10 @@ Programa que realiza la operacion entre dos numeros dependiendo que operador se 
 </div>
 
 **Diagrama de flujo:**
+
+<div align="center">
+<img width="1783" height="377" alt="Captura de pantalla 2025-12-03 170052" src="https://github.com/user-attachments/assets/944fc4fb-e4ff-4184-ae48-d471b11f8242" />
+</div>
 
 ### Estructuras repetitivas
 
@@ -70,6 +82,10 @@ Programa que muestra la suma consecutiva de todos los numeros del 0 al 5.
 
 **Diagrama de flujo:**
 
+<div align="center">
+  <img width="470" height="300" alt="Captura de pantalla 2025-12-04 165027" src="https://github.com/user-attachments/assets/0652a7c6-e2e8-4135-920a-dd8e0f5af1ad" />
+</div>
+
 #### 2. Hacer... Mientras (Do While)
 
 Lógica: Hacerlo una vez, y luego revisar si se debe repetir. Evalúa la condición al final. Esto garantiza que el bloque de instrucciones se ejecute obligatoriamente al menos una vez.
@@ -85,6 +101,10 @@ Programa que usa el do while para contar cuantos numeros positivos ingresa el us
 </div>
 
 **Diagrama de flujo:**
+
+<div align="center">
+  <img width="438" height="481" alt="Captura de pantalla 2025-12-04 092106" src="https://github.com/user-attachments/assets/2f71975e-97e7-4fed-b9e1-8677ac40dfbc" />
+</div>
 
 #### 3. Para (For)
 
@@ -102,14 +122,16 @@ Programa que muestra la tabla de multiplicar del 2.
 
 **Diagrama de flujo:**
 
+<div align="center">
+  <img width="654" height="325" alt="Captura de pantalla 2025-12-04 091851" src="https://github.com/user-attachments/assets/45c3b6fb-8e09-4a9d-875f-bf6e3b1d1775" />
+</div>
+
 ### Ejercicio combinando estructuras condicionales y repetitivas (Python)
 
 #### Descripcion del problema
 
 Una empresa requiere un programa para automatizar el control de calidad de un lote de baterías recargables destinadas a un sistema de carga solar. El programa debe permitir al usuario ingresar los voltajes medidos, 
 validar que sean físicamente posibles, clasificarlas según su estado de carga y generar un reporte estadístico final.
-
-**Especificaciones de Entrada**
 
 Un número entero que representa la cantidad total de baterías a evaluar, debe ser mayor a 0. Si el usuario ingresa un valor menor o igual a 0, el programa debe pedir el dato nuevamente. Posteriormente, se leerá el Voltaje (V) de cada batería, este voltaje debe estar en el rango de entre 0 y 15. Si el usuario ingresa un valor fuera de este rango, el programa debe solicitar el dato nuevamente hasta que se ingrese un valor válido. Para cada voltaje válido ingresado, se debe determinar el estado de la batería según lo siguiente: 
 
@@ -120,6 +142,32 @@ Un número entero que representa la cantidad total de baterías a evaluar, debe 
 - Voltaje mayor a nueve = Optimo
 
 Al finalizar la lectura de los voltajes de las baterías, el programa debe mostrar la cantidad total de baterías defectuosas, recuperables y optimas, y ademas mostrar el Promedio de voltaje Útil: Este promedio se calcula considerando únicamente las baterías con estado "Recuperable" y "Óptima". 
+
+**Diagrama de flujo**
+
+<div align="center">
+  <img width="1029" height="916" alt="Captura de pantalla 2025-12-04 171050" src="https://github.com/user-attachments/assets/c87c6c34-57d8-4f99-aaeb-c516ba2816e5" />
+</div>
+
+**Codigo en python**
+
+<div align="center">
+  <img width="1084" height="775" alt="Captura de pantalla 2025-12-04 161806" src="https://github.com/user-attachments/assets/fa702d8d-51c8-4d47-940c-3a20e1442f69" />
+</div>
+
+<div align="center">
+  <img width="1123" height="277" alt="Captura de pantalla 2025-12-04 161818" src="https://github.com/user-attachments/assets/b087f3a6-6a19-4670-b541-c65440a4ca35" />
+</div>
+
+**Verificacion**
+
+<div align="center">
+  <img width="680" height="296" alt="Captura de pantalla 2025-12-04 171658" src="https://github.com/user-attachments/assets/f5589040-1211-4f0f-aa46-d9900e02de14" />
+</div>
+
+<div align="center">
+  <img width="639" height="326" alt="Captura de pantalla 2025-12-04 171706" src="https://github.com/user-attachments/assets/ba05bb15-eaea-4a0d-a1f2-b6145e6452f5" />
+</div>
 
 ### Principales dificultades en la aplicacion de los contenidos
 
