@@ -13,10 +13,11 @@
 - Haga click en este enlace para acceder a los contenidos de la unidad 2 --> [Unidad 2](unidad2.md) 
 
 ### 🧪 Unidad 3: Análisis y Verificación de Programas
-*Proximamente...*
+- Haga click en este enlace para acceder a los contenidos de la unidad 3 --> [Unidad 3](unidad3.md) 
+
 
 ### ✅ Conclusiones
-*Proximamente...*
+En base a los aprendizajes
 
 ### 📄 Referencias
 
