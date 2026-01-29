@@ -1,6 +1,6 @@
-# Unidad 2
+# Unidad 3
 
-## Contenidos de la unidad 2
+## Contenidos de la unidad 3
 
 ### Modularidad
 
@@ -12,19 +12,17 @@ Consiste en enviar una copia del valor de una variable a la función. Cualquier 
 
 **Ejemplo de paso por valor:**
 
-Programa que intenta incrementar un precio, pero al ser por valor, el precio original en el main no cambia.
-
 **Codigo en C:**
 
 <div align="center">
-  <img width="500" height="auto" alt="Captura de pantalla Codigo por Valor" src="PON_AQUI_TU_ENLACE_A_GITHUB" />
+  <img width="500" height="auto" alt="Captura de pantalla Codigo por Valor" src="<img width="624" height="460" alt="Captura de pantalla 2026-01-28 224551" src="https://github.com/user-attachments/assets/1b21b91c-0e62-45d6-a856-77df898471cc" />
+" />
 </div>
 
-**Diagrama de flujo:**
+**Prueba en terminal:**
 
-<div align="center">
-  <img width="400" height="auto" alt="Diagrama de flujo Paso por Valor" src="PON_AQUI_TU_ENLACE_A_GITHUB" />
-</div>
+<img width="470" height="91" alt="Captura de pantalla 2026-01-28 224557" src="https://github.com/user-attachments/assets/19cc57cd-2307-4a16-b1f6-428e430a5621" />
+
 
 #### 2. Paso de parámetros por referencia
 
@@ -37,13 +35,15 @@ Programa que intercambia los valores de dos variables utilizando sus direcciones
 **Codigo en C:**
 
 <div align="center">
-  <img width="500" height="auto" alt="Captura de pantalla Codigo por Referencia" src="PON_AQUI_TU_ENLACE_A_GITHUB" />
+  <img width="500" height="auto" alt="Captura de pantalla Codigo por Referencia" src="<img width="835" height="485" alt="Captura de pantalla 2026-01-28 224211" src="https://github.com/user-attachments/assets/dafd2110-dec5-4c25-95a9-bd3695fbea5b" />
+" />
 </div>
 
-**Diagrama de flujo:**
+**Prueba en terminal:**
 
 <div align="center">
-  <img width="400" height="auto" alt="Diagrama de flujo Paso por Referencia" src="PON_AQUI_TU_ENLACE_A_GITHUB" />
+  <img width="400" height="auto" alt="Diagrama de flujo Paso por Referencia" src="<img width="457" height="147" alt="Captura de pantalla 2026-01-28 224302" src="https://github.com/user-attachments/assets/e3f0d8ee-33c6-40a6-83e2-3ff7dc13ea7d" />
+" />
 </div>
 
 ---
@@ -52,15 +52,11 @@ Programa que intercambia los valores de dos variables utilizando sus direcciones
 
 Un arreglo es una estructura de datos que permite almacenar una colección de elementos del mismo tipo bajo un solo nombre. Se accede a cada elemento mediante un índice numérico. [2]
 
-
-
 #### 1. Arreglos Unidimensionales (Vectores)
 
-Es una lista de elementos dispuestos en una sola dimensión. Imagina una fila de casilleros donde cada uno guarda un dato y tiene un número de posición que siempre empieza en 0.
+Es una lista de elementos dispuestos en una sola dimensión. Es una fila de casilleros donde cada uno guarda un dato y tiene un número de posición que siempre empieza en 0.
 
 **Ejemplo de arreglo unidimensional:**
-
-Programa que solicita 5 temperaturas y calcula su promedio.
 
 **Codigo en C:**
 
@@ -70,11 +66,21 @@ Programa que solicita 5 temperaturas y calcula su promedio.
 
 #### 2. Arreglos Multidimensionales (Matrices)
 
-Son arreglos de dos o más dimensiones. El más común es el de dos dimensiones (matriz), organizado en filas y columnas, similar a una tabla de Excel o un tablero de ajedrez.
+Son arreglos de dos o más dimensiones. El más común es el de dos dimensiones (matriz), organizado en filas y columnas.
 
 **Ejemplo de arreglo bidimensional:**
 
-Programa que llena una matriz de 3x3 con números enteros y muestra la suma de su diagonal principal.
+**Codigo en C:**
+
+<div align="center">
+  <img width="500" height="auto" alt="Captura de pantalla Arreglo Bidimensional" src="PON_AQUI_TU_ENLACE_A_GITHUB" />
+</div>
+
+#### 3. Tridimensionales
+
+Son arreglos de tres dimensiones que se pueden visualizar lógicamente como un cubo de datos o un conjunto de matrices apiladas (páginas). Para acceder a un elemento específico, se requieren tres índices: el primero para la capa o página, el segundo para la fila y el tercero para la columna. [2]
+
+**Ejemplo de arreglo bidimensional:**
 
 **Codigo en C:**
 
@@ -86,25 +92,31 @@ Programa que llena una matriz de 3x3 con números enteros y muestra la suma de s
 
 ### Principales dificultades en la aplicación de los contenidos
 
-El mayor reto fue comprender el concepto de punteros para el paso por referencia; la sintaxis de los asteriscos (`*`) y ampersands (`&`) suele ser confusa al principio. También tuve dificultades con los arreglos multidimensionales, específicamente al gestionar los ciclos anidados (for dentro de for) para recorrer correctamente las filas y columnas sin exceder los límites del índice.
+El mayor reto fue comprender el concepto de punteros para el paso por referencia, la sintaxis de los asteriscos (`*`) y (`&`) me confundio al principio. 
 
 ### Reflexión crítica de los aprendizajes de la unidad
 
-Esta unidad cambió mi forma de estructurar programas. Entendí que la modularidad no es solo "ordenar", sino una forma de pensar: dividir para vencer. Aprender a usar arreglos me permitió dejar de crear variables individuales (`nota1`, `nota2`, etc.) para pasar a manejar conjuntos de datos de forma masiva y eficiente. Me di cuenta de que un buen programador no es el que escribe el código más largo, sino el que sabe reutilizar sus funciones para que el código sea limpio y profesional.
+Esta unidad cambió mi forma de estructurar programas. Entendí que la modularidad no es solo ordenar el codigo, sino una forma de pensar: dividir para vencer. Aprender a usar arreglos me permitió dejar de crear variables individuales (`nota1`, `nota2`) para pasar a manejar variables similares en una sola. 
 
 ### Tareas entregadas
 
 #### ACD
 
-- Control de aprendizaje sobre funciones y estructuras de datos realizado en el EVA.
+  ACD 1. Proyecto Académico Integrador (Proximo a entregarse)
+  
+  ACD 2. Control de aprendizaje sobre python (Realizado en el EVA)
+  
+  ACD 3. Control de aprendizaje sobre modularidad y estructura de datos (Realizado en el EVA)
 
 #### APE
 
-- Enlace en Google Drive con los APE de la unidad 2 (Modularidad y Arreglos) ----> [APE](https://drive.google.com/tu_enlace_aqui)
+- APE 1. Construcción de funciones y procedimientos en un lenguaje de programación ----> [APE1](https://drive.google.com/drive/folders/1dNGzPZFYzlfbAznxiagkTNDJuo54yEWN?usp=sharing)
+
+- APE 2. Implementación de funciones utilizando el paso de parámetros por valor y por referencia Archivo (Practica de laboratorio en riplet)
 
 #### AA
 
-- Enlace en Google Drive con los AA de la unidad 2 (Ejercicios prácticos) ----> [AA](https://drive.google.com/tu_enlace_aqui)
+- AA 1. Curso Fundamentos de Python 1. Computación UNL ----> [AA1](https://drive.google.com/drive/folders/1oW-5p5qvN2Y64vZSBM03ieXl8Sc9gmgx?usp=sharing)
 
 -------------------
 
