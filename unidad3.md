@@ -15,14 +15,14 @@ Consiste en enviar una copia del valor de una variable a la función. Cualquier 
 **Codigo en C:**
 
 <div align="center">
-  <img width="500" height="auto" alt="Captura de pantalla Codigo por Valor" src="<img width="624" height="460" alt="Captura de pantalla 2026-01-28 224551" src="https://github.com/user-attachments/assets/1b21b91c-0e62-45d6-a856-77df898471cc" />
-" />
+  <img width="500" height="auto" alt="Captura de pantalla Codigo por Valor" src= "https://github.com/user-attachments/assets/1b21b91c-0e62-45d6-a856-77df898471cc" />
 </div>
 
 **Prueba en terminal:**
 
-<img width="470" height="91" alt="Captura de pantalla 2026-01-28 224557" src="https://github.com/user-attachments/assets/19cc57cd-2307-4a16-b1f6-428e430a5621" />
-
+<div align="center">
+  <img width="500" height="auto" alt="Captura de pantalla Codigo por Valor" src= "https://github.com/user-attachments/assets/19cc57cd-2307-4a16-b1f6-428e430a5621" />
+</div>
 
 #### 2. Paso de parámetros por referencia
 
@@ -35,15 +35,13 @@ Programa que intercambia los valores de dos variables utilizando sus direcciones
 **Codigo en C:**
 
 <div align="center">
-  <img width="500" height="auto" alt="Captura de pantalla Codigo por Referencia" src="<img width="835" height="485" alt="Captura de pantalla 2026-01-28 224211" src="https://github.com/user-attachments/assets/dafd2110-dec5-4c25-95a9-bd3695fbea5b" />
-" />
+  <img width="500" height="auto" alt="Captura de pantalla Codigo por Referencia" src= "https://github.com/user-attachments/assets/dafd2110-dec5-4c25-95a9-bd3695fbea5b" />
 </div>
 
 **Prueba en terminal:**
 
 <div align="center">
-  <img width="400" height="auto" alt="Diagrama de flujo Paso por Referencia" src="<img width="457" height="147" alt="Captura de pantalla 2026-01-28 224302" src="https://github.com/user-attachments/assets/e3f0d8ee-33c6-40a6-83e2-3ff7dc13ea7d" />
-" />
+  <img width="400" height="auto" alt="Diagrama de flujo Paso por Referencia" src= "https://github.com/user-attachments/assets/e3f0d8ee-33c6-40a6-83e2-3ff7dc13ea7d" />
 </div>
 
 ---
@@ -61,7 +59,13 @@ Es una lista de elementos dispuestos en una sola dimensión. Es una fila de casi
 **Codigo en C:**
 
 <div align="center">
-  <img width="500" height="auto" alt="Captura de pantalla Arreglo Unidimensional" src="PON_AQUI_TU_ENLACE_A_GITHUB" />
+  <img width="500" height="auto" alt="Captura de pantalla Arreglo Unidimensional" src= "https://github.com/user-attachments/assets/48b65e1b-7b2c-4d2a-ad80-e20801d315ea" />
+</div>
+
+**Prueba en terminal:**
+
+<div align="center">
+  <img width="500" height="auto" alt="Captura de pantalla Codigo por Valor" src= "https://github.com/user-attachments/assets/6efb7c15-58e6-4a7c-a614-100a045fee3d" />
 </div>
 
 #### 2. Arreglos Multidimensionales (Matrices)
@@ -73,7 +77,13 @@ Son arreglos de dos o más dimensiones. El más común es el de dos dimensiones 
 **Codigo en C:**
 
 <div align="center">
-  <img width="500" height="auto" alt="Captura de pantalla Arreglo Bidimensional" src="PON_AQUI_TU_ENLACE_A_GITHUB" />
+  <img width="500" height="auto" alt="Captura de pantalla Arreglo Bidimensional" src= "https://github.com/user-attachments/assets/b54e7b6b-e055-42b5-927f-86bb5a54bb58" />
+</div>
+
+**Prueba en terminal:**
+
+<div align="center">
+  <img width="500" height="auto" alt="Captura de pantalla Codigo por Valor" src= "https://github.com/user-attachments/assets/f01e5f8a-fc94-4e66-84c8-528045bc8cc6" />
 </div>
 
 #### 3. Tridimensionales
@@ -85,7 +95,13 @@ Son arreglos de tres dimensiones que se pueden visualizar lógicamente como un c
 **Codigo en C:**
 
 <div align="center">
-  <img width="500" height="auto" alt="Captura de pantalla Arreglo Bidimensional" src="PON_AQUI_TU_ENLACE_A_GITHUB" />
+  <img width="500" height="auto" alt="Captura de pantalla Arreglo Bidimensional" src= "https://github.com/user-attachments/assets/2dd7c0e1-b426-435a-a5c3-e07a9c225bf0" />
+</div>
+
+**Prueba en terminal:**
+
+<div align="center">
+  <img width="500" height="auto" alt="Captura de pantalla Codigo por Valor" src= "https://github.com/user-attachments/assets/ecaa152d-f057-439e-98cc-4ad700481902" />
 </div>
 
 ---
