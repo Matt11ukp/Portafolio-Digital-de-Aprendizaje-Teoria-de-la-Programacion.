@@ -17,7 +17,7 @@
 
 
 ### ✅ Conclusiones
-En base a los aprendizajes
+Este ciclo fue el paso de simplemente "dar instrucciones" a realmente diseñar soluciones. Empecé peleando con condicionales básicos y terminé gestionando cubos de datos en arreglos tridimensionales, lo que me obligó a dejar de improvisar y empezar a ser mucho más estructurado. Entender la modularidad y el paso por referencia me quitó la mala costumbre de escribir todo en un solo bloque, enseñándome que el código limpio es más una necesidad que un lujo. Aunque los ciclos anidados y los punteros fueron un dolor de cabeza técnico, me sirvieron para entender que programar es básicamente saber romper un problema grande en piezas pequeñas que no se rompan entre sí. Al final, me quedo con que la clave no es escribir más rápido, sino tener la paciencia de trazar la lógica antes de tocar el teclado.
 
 ### 📄 Referencias
 
